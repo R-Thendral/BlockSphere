@@ -6,7 +6,7 @@ BlogSite With Comment, Like, and Share Features
 
 Blogsphere is a MERN stack web application where users can create, read, comment, like, and share blogs in a clean and user-friendly interface.
 It provides a dynamic platform for readers and writers to connect through interactive discussions and effortless blog management.
-
+ 
 🚀 Features
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
